@@ -9,7 +9,7 @@ import org.junit.experimental.theories.Theories;
 import org.junit.experimental.theories.Theory;
 import org.junit.runner.RunWith;
 
-import com.rboomerang.fitnesstracker.StepsGoalTracker;
+import com.satish.fitnesstracker.StepsGoalTracker;
 
 @RunWith(Theories.class)
 public class StepsAlwaysPositiveTest {

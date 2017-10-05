@@ -1,9 +1,9 @@
-package com.rboomerang.fitnesstracker.dao;
+package com.satish.fitnesstracker.dao;
 
 import java.util.HashMap;
 import java.util.Map;
 
-import com.rboomerang.fitnesstracker.StepsGoalTracker;
+import com.satish.fitnesstracker.StepsGoalTracker;
 
 public class StepTrackerDaoImpl implements StepTrackerDao {
 	

@@ -11,7 +11,7 @@ import org.junit.runner.RunWith;
 import org.junit.runners.Parameterized;
 import org.junit.runners.Parameterized.Parameters;
 
-import com.rboomerang.fitnesstracker.StepsGoalTracker;
+import com.satish.fitnesstracker.StepsGoalTracker;
 
 @RunWith(Parameterized.class)
 public class StepsTrackerPositvTotalTest {

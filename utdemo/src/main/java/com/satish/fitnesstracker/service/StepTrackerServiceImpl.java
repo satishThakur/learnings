@@ -1,11 +1,11 @@
-package com.rboomerang.fitnesstracker.service;
+package com.satish.fitnesstracker.service;
 
 import java.util.List;
 import java.util.concurrent.CopyOnWriteArrayList;
 
-import com.rboomerang.fitnesstracker.GoalAchivedListner;
-import com.rboomerang.fitnesstracker.StepsGoalTracker;
-import com.rboomerang.fitnesstracker.dao.StepTrackerDao;
+import com.satish.fitnesstracker.GoalAchivedListner;
+import com.satish.fitnesstracker.StepsGoalTracker;
+import com.satish.fitnesstracker.dao.StepTrackerDao;
 
 public class StepTrackerServiceImpl implements StepTrackerService{
 	

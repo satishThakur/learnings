@@ -1,4 +1,4 @@
-package com.rboomerang.fitnesstracker;
+package com.satish.fitnesstracker;
 
 import java.util.Objects;
 

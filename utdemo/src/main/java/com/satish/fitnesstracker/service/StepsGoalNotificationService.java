@@ -1,4 +1,4 @@
-package com.rboomerang.fitnesstracker.service;
+package com.satish.fitnesstracker.service;
 
 public interface StepsGoalNotificationService {
 	

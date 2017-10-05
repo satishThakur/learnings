@@ -1,7 +1,7 @@
-package com.rboomerang.fitnesstracker.service;
+package com.satish.fitnesstracker.service;
 
-import com.rboomerang.fitnesstracker.GoalAchivedListner;
-import com.rboomerang.fitnesstracker.StepsGoalTracker;
+import com.satish.fitnesstracker.GoalAchivedListner;
+import com.satish.fitnesstracker.StepsGoalTracker;
 
 public interface StepTrackerService {
 	

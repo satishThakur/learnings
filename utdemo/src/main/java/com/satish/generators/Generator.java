@@ -1,4 +1,4 @@
-package com.rboomerang.generators;
+package com.satish.generators;
 
 public interface Generator<T> {
 	

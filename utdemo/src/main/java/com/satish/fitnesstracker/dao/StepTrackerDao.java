@@ -1,6 +1,6 @@
-package com.rboomerang.fitnesstracker.dao;
+package com.satish.fitnesstracker.dao;
 
-import com.rboomerang.fitnesstracker.StepsGoalTracker;
+import com.satish.fitnesstracker.StepsGoalTracker;
 
 public interface StepTrackerDao {
 

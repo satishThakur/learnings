@@ -10,11 +10,11 @@ import static org.mockito.Mockito.when;
 import org.junit.Before;
 import org.junit.Test;
 
-import com.rboomerang.fitnesstracker.GoalAchivedListner;
-import com.rboomerang.fitnesstracker.StepsGoalTracker;
-import com.rboomerang.fitnesstracker.dao.StepTrackerDao;
-import com.rboomerang.fitnesstracker.service.StepTrackerService;
-import com.rboomerang.fitnesstracker.service.StepTrackerServiceImpl;
+import com.satish.fitnesstracker.GoalAchivedListner;
+import com.satish.fitnesstracker.StepsGoalTracker;
+import com.satish.fitnesstracker.dao.StepTrackerDao;
+import com.satish.fitnesstracker.service.StepTrackerService;
+import com.satish.fitnesstracker.service.StepTrackerServiceImpl;
 
 public class StepTrackerServiceTest {
 	
