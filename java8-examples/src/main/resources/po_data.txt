@@ -1,0 +1,161 @@
+#sku, category, transaction date, units sold, selling price, cost, isOnPromo
+
+SKU-0001, Electronics, 2016-09-01, 50, 15, 11, false
+SKU-0002, Electronics, 2016-09-01, 21, 23, 15, true
+SKU-0003, Electronics, 2016-09-01, 5, 200, 170, false
+SKU-0004, Electronics, 2016-09-01, 30, 15, 13, false
+
+SKU-0005, Apparels, 2016-09-01, 13, 5, 4, false
+SKU-0006, Apparels, 2016-09-01, 2, 50, 40, false
+SKU-0007, Apparels, 2016-09-01, 100, 24, 26, true
+SKU-0008, Apparels, 2016-09-01, 60, 15, 13, true
+
+SKU-0001, Electronics, 2016-09-02, 50, 5, 4, false
+SKU-0002, Electronics, 2016-09-02, 30, 25, 15, true
+SKU-0003, Electronics, 2016-09-02, 20, 180, 170, false
+SKU-0004, Electronics, 2016-09-02, 10, 14, 13, false
+
+SKU-0005, Apparels, 2016-09-02, 10, 6, 4, true
+SKU-0006, Apparels, 2016-09-02, 20, 43, 40, false
+SKU-0007, Apparels, 2016-09-02, 10, 27, 26, false
+SKU-0008, Apparels, 2016-09-02, 10, 18, 13, true
+
+SKU-0001, Electronics, 2016-09-03, 100, 10, 11, true
+SKU-0002, Electronics, 2016-09-03, 2, 50, 15, false
+SKU-0003, Electronics, 2016-09-03, 100, 183, 170, false
+SKU-0004, Electronics, 2016-09-03, 16, 15, 13, true
+
+SKU-0005, Apparels, 2016-09-03, 10, 8, 4, false
+SKU-0006, Apparels, 2016-09-03, 1, 50, 40, false
+SKU-0007, Apparels, 2016-09-03, 20, 30, 26, false
+SKU-0008, Apparels, 2016-09-03, 10, 17, 13, false
+
+SKU-0001, Electronics, 2016-09-04, 10, 20, 12, false
+SKU-0002, Electronics, 2016-09-04, 200, 18, 17, true
+SKU-0003, Electronics, 2016-09-04, 5, 240, 130, false
+SKU-0004, Electronics, 2016-09-04, 100, 15, 13, true
+
+SKU-0005, Apparels, 2016-09-04, 134, 5, 4, true
+SKU-0006, Apparels, 2016-09-04, 20, 43, 40, true
+SKU-0007, Apparels, 2016-09-04, 10, 29, 26, false
+SKU-0008, Apparels, 2016-09-04, 16, 15, 13, true
+
+SKU-0001, Electronics, 2016-08-01, 5, 20, 13, false
+SKU-0002, Electronics, 2016-08-01, 200, 19, 18, true
+SKU-0003, Electronics, 2016-08-01, 10, 134, 100, false
+SKU-0004, Electronics, 2016-08-01, 160, 15, 12, true
+
+SKU-0005, Apparels, 2016-08-01, 123, 5, 3, true
+SKU-0006, Apparels, 2016-08-01, 200, 46, 40, true
+SKU-0007, Apparels, 2016-08-01, 25, 30, 26, false
+SKU-0008, Apparels, 2016-08-01, 16, 15, 13, true
+
+SKU-0001, Electronics, 2016-08-02, 15, 21, 16, false
+SKU-0002, Electronics, 2016-08-02, 134, 43, 40, true
+SKU-0003, Electronics, 2016-08-02, 38, 32, 26, false
+SKU-0004, Electronics, 2016-08-02, 42, 14, 13, true
+
+SKU-0005, Apparels, 2016-08-02, 50, 5, 4, false
+SKU-0006, Apparels, 2016-08-02, 2, 50, 40, false
+SKU-0007, Apparels, 2016-08-02, 100, 24, 26, true
+SKU-0008, Apparels, 2016-08-02, 16, 15, 13, true
+
+SKU-0001, Electronics, 2016-08-03, 50, 19, 13, false
+SKU-0002, Electronics, 2016-08-03, 200, 44, 42, true
+SKU-0003, Electronics, 2016-08-03, 10, 35, 22, false
+SKU-0004, Electronics, 2016-08-03, 16, 16, 15, true
+
+SKU-0005, Apparels, 2016-08-03, 5, 5, 7, false
+SKU-0006, Apparels, 2016-08-03, 20, 50, 30, false
+SKU-0007, Apparels, 2016-08-03, 95, 24, 22, true
+SKU-0008, Apparels, 2016-08-03, 39, 18, 15, true
+
+SKU-0001, Electronics, 2016-08-04, 500, 5, 6, yes
+SKU-0002, Electronics, 2016-08-04, 20, 50, 42, true
+SKU-0003, Electronics, 2016-08-04, 10, 27, 26, false
+SKU-0004, Electronics, 2016-08-04, 160, 14, 10, true
+
+SKU-0005, Apparels, 2016-08-04, 13, 51, 44, false
+SKU-0006, Apparels, 2016-08-04, 20, 44, 40, true
+SKU-0007, Apparels, 2016-08-04, 10, 30, 26, true
+SKU-0008, Apparels, 2016-08-04, 16, 15, 13, false
+
+SKU-0001, Electronics, 2015-09-01, 30, 5, 42, false
+SKU-0002, Electronics, 2015-09-01, 250, 40, 30, true
+SKU-0003, Electronics, 2015-09-01, 10, 34, 30, false
+SKU-0004, Electronics, 2015-09-01, 50, 13, 10, true
+
+SKU-0005, Apparels, 2015-09-01, 10, 12, 10, false
+SKU-0006, Apparels, 2015-09-01, 221, 43, 37, false
+SKU-0007, Apparels, 2015-09-01, 100, 22, 20, true
+SKU-0008, Apparels, 2015-09-01, 16, 15, 13, true
+
+SKU-0001, Electronics, 2015-09-02, 4, 51, 49, false
+SKU-0002, Electronics, 2015-09-02, 85, 29, 35, true
+SKU-0003, Electronics, 2015-09-02, 100, 28, 26, false
+SKU-0004, Electronics, 2015-09-02, 16, 16, 13, true
+
+SKU-0005, Apparels, 2015-09-02, 50, 51, 47, false
+SKU-0006, Apparels, 2015-09-02, 2, 50, 40, false
+SKU-0007, Apparels, 2015-09-02, 10, 27, 26, true
+SKU-0008, Apparels, 2015-09-02, 34, 15, 13, true
+
+SKU-0001, Electronics, 2015-09-03, 30, 49, 44, false
+SKU-0002, Electronics, 2015-09-03, 2, 50, 40, true
+SKU-0003, Electronics, 2015-09-03, 10, 27, 26, false
+SKU-0004, Electronics, 2015-09-03, 16, 19, 13, true
+
+SKU-0005, Apparels, 2015-09-03, 56, 50, 41, false
+SKU-0006, Apparels, 2015-09-03, 21, 39, 35, false
+SKU-0007, Apparels, 2015-09-03, 100, 24, 20, true
+SKU-0008, Apparels, 2015-09-03, 16, 15, 14, true
+
+SKU-0001, Electronics, 2015-09-04, 129, 10, 6, false
+SKU-0002, Electronics, 2015-09-04, 21, 44, 40, true
+SKU-0003, Electronics, 2015-09-04, 100, 30, 26, false
+SKU-0004, Electronics, 2015-09-04, 8, 16, 15, true
+
+SKU-0005, Apparels, 2016-09-04, 42, 15, 4, false
+SKU-0006, Apparels, 2016-09-04, 20, 49, 40, false
+SKU-0007, Apparels, 2016-09-04, 10, 34, 26, true
+SKU-0008, Apparels, 2016-09-04, 5, 20, 13, true
+
+SKU-0001, Electronics, 2016-08-01, 10, 15, 14, false
+SKU-0002, Electronics, 2016-08-01, 200, 42, 40, true
+SKU-0003, Electronics, 2016-08-01, 10, 30, 26, false
+SKU-0004, Electronics, 2016-08-01, 6, 15, 13, false
+
+SKU-0005, Apparels, 2016-08-01, 10, 55, 51, false
+SKU-0006, Apparels, 2016-08-01, 20, 39, 35, false
+SKU-0007, Apparels, 2016-08-01, 42, 29, 26, true
+SKU-0008, Apparels, 2016-08-01, 18, 15, 13, true
+
+SKU-0001, Electronics, 2016-08-02, 102, 49, 47, false
+SKU-0002, Electronics, 2016-08-02, 20, 55, 44, true
+SKU-0003, Electronics, 2016-08-02, 100, 24, 29, false
+SKU-0004, Electronics, 2016-08-02, 10, 16, 13, true
+
+SKU-0005, Apparels, 2016-08-02, 17, 37, 33, false
+SKU-0006, Apparels, 2016-08-02, 12, 50, 40, false
+SKU-0007, Apparels, 2016-08-02, 10, 24, 26, true
+SKU-0008, Apparels, 2016-08-02, 1, 15, 13, true
+
+SKU-0001, Electronics, 2016-08-03, 10, 50, 40, false
+SKU-0002, Electronics, 2016-08-03, 29, 46, 40, true
+SKU-0003, Electronics, 2016-08-03, 100, 27, 26, false
+SKU-0004, Electronics, 2016-08-03, 167, 15, 13, true
+
+SKU-0005, Apparels, 2016-08-03, 5, 51, 42, false
+SKU-0006, Apparels, 2016-08-03, 29, 42, 40, false
+SKU-0007, Apparels, 2016-08-03, 100, 29, 26, true
+SKU-0008, Apparels, 2016-08-03, 16, 19, 13, true
+
+SKU-0001, Electronics, 2016-08-04, 120, 59, 52, false
+SKU-0002, Electronics, 2016-08-04, 34, 44, 44, true
+SKU-0003, Electronics, 2016-08-04, 104, 33, 29, false
+SKU-0004, Electronics, 2016-08-04, 19, 17, 13, true
+
+SKU-0005, Apparels, 2016-08-04, 50,15, 14, false
+SKU-0006, Apparels, 2016-08-04, 2, 50, 46, false
+SKU-0007, Apparels, 2016-08-04, 100, 24, 20, true
+SKU-0008, Apparels, 2016-08-04, 16, 15, 10, true
